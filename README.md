@@ -1,2 +1,2 @@
-# tf-infra-prod
-Terraform code for Terraform POC
+# This is a prod Terraform repository for infra developers.
+Last modified by: Gerry Merino
